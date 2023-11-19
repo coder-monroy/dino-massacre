@@ -1,6 +1,6 @@
 # Dino Massacre - VR Game using Unity
 
-## VR Game where the user stands their ground and uses a gun to shoot down waves of dinosaurs to survive
+## VR Game, shoot down waves of dinosaurs to survive
 
 I made this project during my last semester at Cal State LA (Jan 2023 - May 2023) for a course I took on VR Game Design. I used pre-existing assets
 for the dinos, gun, and other decorations, as well as pre-existing sounds, but designed the game and coded the behaviors myself. I also made use of
