@@ -13,13 +13,13 @@ https://www.youtube.com/watch?v=oBZnK3yLLqY
 
 ## Test Footage
 
-https://github.com/coder-monroy/dino-massacre/assets/97262622/1c68b05b-29a5-48c3-b20c-f6e42d7a3ec2
+https://github.com/coder-monroy/dino-massacre/assets/97262622/4fe14de6-b9d5-41a8-83de-66c4e509164c
 
 ## Some Action Shots
 
-https://github.com/coder-monroy/dino-massacre/assets/97262622/3ca8c09a-20db-41bb-8038-67baf6dfc380
+https://github.com/coder-monroy/dino-massacre/assets/97262622/8e0e11ac-170b-44e3-9332-1f9224a201ef
 
-https://github.com/coder-monroy/dino-massacre/assets/97262622/86702bb9-9c86-408f-9373-3edc4ab93fb3
+https://github.com/coder-monroy/dino-massacre/assets/97262622/e294631c-0cab-4ba5-8e8c-8792d9e95466
 
 ## More about this project
 
