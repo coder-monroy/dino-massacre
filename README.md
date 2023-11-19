@@ -17,9 +17,9 @@ https://github.com/coder-monroy/dino-massacre/assets/97262622/1c68b05b-29a5-48c3
 
 ## Some Action Shots
 
-https://github.com/coder-monroy/dino-massacre/assets/97262622/2b617ecc-c4ff-4ecf-bdd2-5f1c73b99a10
+https://github.com/coder-monroy/dino-massacre/assets/97262622/3ca8c09a-20db-41bb-8038-67baf6dfc380
 
-https://github.com/coder-monroy/dino-massacre/assets/97262622/288f8160-8d42-429b-80e6-38a339577543
+https://github.com/coder-monroy/dino-massacre/assets/97262622/86702bb9-9c86-408f-9373-3edc4ab93fb3
 
 ## More about this project
 
